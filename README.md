@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋, I'm Diky Hadna</h1>
+<h1 align="center">¡Hola! 👋 I'm Diky Hadna</h1>
 <h3 align="center">An AI/ML & Frontend Developer with 10+ Years Experience</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkhd&label=Profile%20views&color=0e75b6&style=flat" alt="dkhd" /> </p>
