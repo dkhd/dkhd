@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 I'm Diky Hadna</h1>
-<h3 align="center">I have 10+ years of experience and currently working on web developent area</h3>
+<h3 align="center">I have 10+ years of experience and mostly working with web technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkhd&label=Profile%20views&color=0e75b6&style=flat" alt="dkhd" /> </p>
 
