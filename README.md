@@ -2,4 +2,4 @@
 ~$ ./scan_me.sh
 ```
 
-![Scan me](./assets/qr.png)
+<img src="./assets/qr.png" alt="Coder GIF" width="500">
