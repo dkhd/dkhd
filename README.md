@@ -47,4 +47,4 @@ If your work touches influence operations, strategic communication, or defense-i
 
 ---
 
-<sub><i>“The systems are real. The stakes are high. NISKALA is here to continue the mission.”</i></sub>
+<sub><i>“The threats are real. The stakes are high. NISKALA is here to continue the mission.”</i></sub>
