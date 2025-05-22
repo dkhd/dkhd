@@ -25,7 +25,7 @@ Much of this work has taken place in high-context environments where the systems
 
 ## 🛡️ NISKALA
 
-Since my portfolio is intentionally invisible, I founded [NISKALA](https://niskala.systems): A self-directed, independent R&D lab focused on adversarial narrative environments. It is sovereign infrastructure for prototyping advanced narrative intelligence systems, operating at the intersection of InfoOps, PsyOps, AI, and cognitive security.
+Since my portfolio is intentionally invisible, I founded [NISKALA](https://niskala.systems): A self-directed, independent R&D lab focused on adversarial narrative environments. It is sovereign infrastructure for prototyping advanced narrative intelligence systems, operating at the intersection of [InfoOps](https://en.wikipedia.org/wiki/Information_Operations_(United_States)), [PsyOps](https://en.wikipedia.org/wiki/Psychological_operations_(United_States)), AI, and [cognitive security](https://blackbird.ai/blog/what-is-cognitive-security).
 
 **Current focus areas:**
 - Counter-disinformation infrastructure
